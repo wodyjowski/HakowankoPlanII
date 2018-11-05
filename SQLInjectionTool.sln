@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HakowankoPlanII", "HakowankoPlanII\HakowankoPlanII.csproj", "{55B9CA69-26CC-4E23-8CCA-82FD3FACA513}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLInjectionTool", "SQLInjectionTool\SQLInjectionTool.csproj", "{55B9CA69-26CC-4E23-8CCA-82FD3FACA513}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
